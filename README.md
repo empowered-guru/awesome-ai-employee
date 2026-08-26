@@ -44,6 +44,7 @@ A curated index of tools and frameworks for building **AI employees** — autono
 - [Sierra](https://sierra.ai) — customer-facing AI agents
 - [Decagon](https://decagon.ai) — AI support agents
 - [Relevance AI](https://relevanceai.com) — AI workforce platform
+- [Workforce Wave](https://www.workforcewave.com) — AI voice agents and virtual receptionist for SMBs
 
 ## Contributing
 
